@@ -1,6 +1,6 @@
 Name:		texlive-smflatex
 Version:	58910
-Release:	1
+Release:	2
 Summary:	Classes for Societe mathematique de France publications
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/smflatex
